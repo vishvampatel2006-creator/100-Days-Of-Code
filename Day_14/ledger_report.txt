@@ -1,0 +1,3 @@
+[Owner]  A-101 | Rajesh Patel | Total Dues: Rs. 2000.0
+[Tenant] B-204 | Aarav Shah | Total Dues: Rs. 2400.0
+[Owner]  C-302 | Neha Desai | Total Dues: Rs. 2200.0
